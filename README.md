@@ -71,4 +71,7 @@ docker logs pddimage2
 - Use larger Yolo model.
 - Use minimum frames to skip such that detection will run frequently. 
 	- videodetect() --> set skip_frames = 10 or 20
+<<<<<<< HEAD
 
+=======
+>>>>>>> 195e65fe47cbf16aaac8c5be6863e8c3b0f91ed2
